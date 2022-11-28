@@ -1,0 +1,23 @@
+* {
+    margin: 0%;
+}
+h1 {
+    color: goldenrod;
+    font-size: 50px;
+    border: 2px dashed rgb(10, 11, 92);
+    border-style: solid;
+}
+
+.FooterIndex {
+background-color: goldenrod;
+text-align: center;
+text-transform: capitalize;
+font-variant: small-caps;
+}
+#Contacto {
+font-size: 28px;
+font-family: inherit;
+text-align: center;
+border: 2px dashed rgb(10, 11, 92);
+border-radius: 20px;
+}
