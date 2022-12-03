@@ -1,9 +1,57 @@
 * {
-    margin: 0%;
+    margin: 5px;
 }
-h1 {
+
+nav ul li {
+    display: inline;
+}
+.BarraNavegacion {
+    text-align: center;
+}
+#InicioNav {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(135, 135, 145);
+}
+#InicioNav:hover {
+    color: rgb(4, 4, 63);
+    background-color: aliceblue;
+}
+#IdentidadNav {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(135, 135, 145);
+}
+#IdentidadNav:hover {
+    color: rgb(4, 4, 63);
+    background-color: aliceblue;
+}
+#ComprarNav {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(135, 135, 145);
+}
+#ComprarNav:hover {
+    color: rgb(4, 4, 63);
+    background-color: aliceblue;
+}
+#ContactoNav {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(135, 135, 145);
+}
+#ContactoNav:hover {
+    color: rgb(4, 4, 63);
+    background-color: aliceblue;
+}
+.Presentacion {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
     color: goldenrod;
-    font-size: 50px;
+    font-size: 25px;
     border: 2px dashed rgb(10, 11, 92);
     border-style: solid;
 }
@@ -14,10 +62,20 @@ text-align: center;
 text-transform: capitalize;
 font-variant: small-caps;
 }
-#Contacto {
-font-size: 28px;
-font-family: inherit;
-text-align: center;
-border: 2px dashed rgb(10, 11, 92);
-border-radius: 20px;
+
+#Cannaclusive {
+    position: absolute ;
+    top: 5px; left: 10px;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    margin: 3rem;
+}
+#Cannaclusive2 {
+    position: absolute ;
+    top: 5px; right: 65px;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    margin: 3rem;
 }
