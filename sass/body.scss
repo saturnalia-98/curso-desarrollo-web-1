@@ -1,0 +1,9 @@
+body {
+    font-family: $tipografiaprincipal;
+    .Presentacion {
+        background-color: $colorfondos;
+        border: $bordesconfig;
+        img {
+            @include CanaclusiveIcon(grey);
+            } }
+            }

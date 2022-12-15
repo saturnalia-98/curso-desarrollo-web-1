@@ -1,0 +1,6 @@
+@mixin CanaclusiveIcon ($colorborde){
+    position: absolute;
+    border: $bordesconfig;
+    margin: 5px;
+    border-color: $colorborde;
+}

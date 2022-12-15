@@ -1,0 +1,19 @@
+@media only screen and (min-width: 320px) and (max-width: 480px){
+    body {
+        background-color: rgb(211, 174, 247);
+    }
+}
+@media only screen and (min-width: 481px) and (max-width: 1024px){
+    body {
+        background-color: rgba(108, 108, 209, 0.568);
+    }
+    main section {
+        display: none;
+    }
+}
+@media only screen and (min-width: 481px) and (max-width: 1024px){
+    body {
+        background-color: rgb(221, 230, 200);
+        
+    }
+}

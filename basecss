@@ -1,0 +1,27 @@
+body {
+  font-family: "Cinzel", serif;
+}
+body .Presentacion {
+  background-color: rgb(126, 168, 145);
+  border: 12px double rgb(10, 11, 92);
+}
+body .Presentacion img {
+  position: absolute;
+  border: 12px double rgb(10, 11, 92);
+  margin: 5px;
+  border-color: grey;
+}
+
+.btnVerMas, .btnVerMenos {
+  margin: 1rem;
+  color: rgb(138, 123, 39);
+  background-color: rgb(118, 126, 107);
+  border-radius: 5px 15px;
+  font-size: 15px;
+}
+
+.btnVerMenos {
+  background-color: rgb(65, 109, 65);
+}
+
+/*# sourceMappingURL=basecss.map */
